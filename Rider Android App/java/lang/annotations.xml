@@ -1,0 +1,5 @@
+<root>
+    <item name='java.lang.Object void notify()'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
